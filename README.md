@@ -6,6 +6,8 @@
 * 《统计学习方法》 [第二版课件](https://pan.baidu.com/s/1HUw0MeBD-1LP-r441oykhw)
 * 微软出品的 [Python学习教程](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652054508&idx=4&sn=723354957ed28933ddc154f74365a8da&chksm=f120571dc657de0b6a6182feaf24e3ffd16711df6449becd3e1826b710a660e1dc43b4ec1ffb&mpshare=1&scene=1&srcid=0131EyQBdbZzDQJQbj1RwYS7&sharer_sharetime=1580405684837&sharer_shareid=593d73ae1a135ed19ede5354b6489071&exportkey=AZy2LjalkpV9w2QqK0nCQSA%3D&pass_ticket=csWHPvTAo43pjSZX33LJIs8ODHMOEw3ZX%2BrQWGEuiip8tEuN5jB%2B6sBvYCu4Q53l#rd)
   > 内含youtube视频（科学上网）与github项目地址。
+* 《Intermediate Python》中文译本 [译本pdf](https://github.com/eastlakeside/interpy-zh/releases) [代码演示](https://github.com/eastlakeside/interpy-zh/tree/master/code/2.7)<br/>
+  > 书中介绍了一些python的进阶用法，代码实现使用的是2.7版。
 
 ## 第二部分 ***机器学习与深度学习系统学习资料***
 * 机器学习初学者（公众号）<br/>
