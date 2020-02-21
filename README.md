@@ -8,6 +8,8 @@
   > 内含youtube视频（科学上网）与github项目地址。
 * 《Intermediate Python》中文译本 [译本pdf](https://github.com/eastlakeside/interpy-zh/releases) [代码演示](https://github.com/eastlakeside/interpy-zh/tree/master/code/2.7)<br/>
   > 书中介绍了一些python的进阶用法，代码实现使用的是2.7版。
+* 浙大计算机系顶流翁恺老师的编程MOOC [课程链接](https://www.icourse163.org/u/wengkai?userId=318013&_trace_c_p_k2_=4ca2050fba624495aaaf8c998c899b31)
+  > 内含Python、C、Java相关的编程课程
 
 ## 第二部分 ***机器学习与深度学习系统学习资料***
 * 机器学习初学者（公众号）<br/>
