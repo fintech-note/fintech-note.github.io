@@ -19,12 +19,16 @@
 * 李宏毅老师的《机器学习》[学习笔记](https://github.com/datawhalechina/leeml-notes)<br/>
   > 链接中包含B站的视频以及在线学习笔记两部分内容，课程覆盖了机器学习及深度学习大部分基础领域。
 * 李沐的《动手学深度学习》课程 [点此直达](https://zh.gluon.ai/chapter_preface/preface.html)
+* 复旦邱锡鹏老师撰写的《神经网络与深度学习》[学习资料](https://nndl.github.io/)
+  > 主要介绍神经网络与深度学习中的基础知识、主要模型（前馈网络、卷积网络、循环网络等）以及在计算机视觉、自然语言处理等领域的应用。链接中包含书籍pdf和课程ppt以及课后练习与习题讨论。
 
 ## 第三部分 ***算法理解及与业务结合***
 * [深入理解XGBoost](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247488040&idx=1&sn=70db1201cf71fbdabdda2834423ba8b5&chksm=e870c365df074a7389a29a39b725016c92420113d90a3f2a2bd7fa92c5f02a61119661475e1f&mpshare=1&scene=1&srcid=01315C3oHIGbIaRsTokE1QWD&sharer_sharetime=1580405518051&sharer_shareid=593d73ae1a135ed19ede5354b6489071&exportkey=ARy2P5K9YWsONJ4QTW%2Fql6Q%3D&pass_ticket=csWHPvTAo43pjSZX33LJIs8ODHMOEw3ZX%2BrQWGEuiip8tEuN5jB%2B6sBvYCu4Q53l#rd)
 * [机器学习方法构建反欺诈模型](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247488019&idx=3&sn=bcf56c347170ac8a79df1b04edb29d7a&chksm=ec5ecd6edb294478abeb2231b505f3217a99363a2caf7304b83ed16b33603aa98614bbcb98aa&mpshare=1&scene=1&srcid=1106QdLk6r668jazE4qyanK5&sharer_sharetime=1580405505699&sharer_shareid=593d73ae1a135ed19ede5354b6489071&exportkey=AW%2FH9vdRYEC2q%2FbUAnRpLIE%3D&pass_ticket=csWHPvTAo43pjSZX33LJIs8ODHMOEw3ZX%2BrQWGEuiip8tEuN5jB%2B6sBvYCu4Q53l#rd)
 * [Numpy手写主流机器学习模型](https://github.com/ddbourgin/numpy-ml/tree/master/numpy_ml)<br/>
   > 代码有助于理解各类算法原理及参数作用
+* [特征工程手册](https://github.com/YC-Coder-Chen/feature-engineering-handbook)
+  > 内容主要涵盖数据预处理(涉及sklearn,category encoders,featuretools), 特征选择, 降维方法。上层目录中还有关于主流树模型的数学知识。
 
 ## 第四部分 ***前沿领域***
 * [联邦学习](https://mp.weixin.qq.com/s?__biz=MzI2MDYzMjA4Nw==&mid=2247484717&idx=1&sn=b5ce09ae42dbb13f90b3d8fb50441755&chksm=ea67fe55dd1077435479d9d4f35d8cd3ccd72a5434f97509eda1e6a08acee05fbd6138131980&mpshare=1&scene=1&srcid=0131GIYmPgIj1EThCOQz07sa&sharer_sharetime=1580405976753&sharer_shareid=593d73ae1a135ed19ede5354b6489071&exportkey=AR7Z25eCQaxl%2F1o4oXFrmOQ%3D&pass_ticket=csWHPvTAo43pjSZX33LJIs8ODHMOEw3ZX%2BrQWGEuiip8tEuN5jB%2B6sBvYCu4Q53l#rd)
